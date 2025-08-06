@@ -1,5 +1,11 @@
 # svelte
 
+## 5.38.1
+
+### Patch Changes
+
+- fix: wrap `abort` in `without_reactive_context` ([#16570](https://github.com/sveltejs/svelte/pull/16570))
+
 ## 5.38.0
 
 ### Minor Changes
